@@ -4,6 +4,6 @@ body {
 }
 
 .movie-app > .row {
-  overflow-x: auto;
-  flex-wrap: nowrap;
+	overflow-x: auto;
+	flex-wrap: nowrap;
 }
